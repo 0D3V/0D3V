@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0D3V
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently Coding
+- 🐞 Malware Developer
+- 🛠️ Reverse Engineer
 - 💞️ I love tea
 
 
