@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @0D3V
 - 🐞 Malware Developer
 - 🛠️ Reverse Engineer
+- ⚙️ Software Enginner
 - 💞️ I love tea
 
 
