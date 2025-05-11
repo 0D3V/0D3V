@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @0D3V
-- 🐞 Malware Developer
-- 🛠️ Reverse Engineer
-- ⚙️ Software Enginner
-- 💞️ I love tea
-
-
-<!---
-0D3V/0D3V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+0D3V;%F0%9F%90%9E%F0%9F%9B%A0%EF%B8%8F+Malware+Reverse+Engineer;%F0%9F%90%9E+Malware+Developer;%F0%9F%92%9E%EF%B8%8F%E2%98%95+I+love+tea)](https://git.io/typing-svg)
